@@ -2,7 +2,7 @@
 
 🤔 I’m currently learning a lot of different things (and trying many things as well). 
 
-For new updates: [https:](https://sarahliaw.github.io/)
+For new updates: [sarahliaw.github.io](https://sarahliaw.github.io/)
 <!--
 **SarahLiaw/SarahLiaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
