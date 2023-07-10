@@ -2,7 +2,6 @@
 
 🤔 I’m currently learning a lot of different things (and trying many things as well). 
 
-For new updates: [sarahliaw.github.io](https://sarahliaw.github.io/)
 <!--
 **SarahLiaw/SarahLiaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+For new updates: [sarahliaw.github.io](https://sarahliaw.github.io/)
 -->
